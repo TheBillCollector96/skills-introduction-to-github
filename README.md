@@ -24,12 +24,15 @@ _Congratulations, you've completed this course and joined the world of developer
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-Here's a recap of your accomplishments:
+Here's a recap of of my accomplishments:
 
-- You learned about GitHub, repositories, branches, commits, and pull requests.
-- You created a branch, a commit, and a pull request.
-- You merged a pull request.
-- You made your first contribution! :tada:
+- I learned about GitHub, repositories, branches, commits, and pull requests.
+- I created a branch, a commit, and a pull request.
+- I merged a pull request.
+- I made my first contribution! :tada:
+
+### Would You Also Like To Learn ?:
+[Do the Introduction Course for GitHub](https://github.com/skills/introduction-to-github)
 
 ### What's next?
 
